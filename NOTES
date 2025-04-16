@@ -1,0 +1,7 @@
+ -- Any thoughts I want to record while wrapping my head around webGL --
+
+ [tools] While using *webglfundementals*, use their helper functions.
+        LATER I can see about substituting twgl in.
+
+
+oh... I'm going to need to start a new project... perhaps I can just clone this, and gut it.
